@@ -10,8 +10,8 @@ I love **VIBE CODING** and building tools that make developers' lives easier.
 
 ### 🔭 Currently Working On
 - 🚀 Improving performance for
-[ alfa546/Meeting-Agents-Discord-teams-zoom ]
-- 🛠 Maintaining [ alfa546/Meeting-Agents-Discord-teams-zoom ]
+[ https://github.com/alfa546/Meeting-Agents-Discord-teams-zoom ]
+- 🛠 Maintaining [ https://github.com/alfa546/Meeting-Agents-Discord-teams-zoom ]
 
 ### 💬 Connect with me
 - **Gmail:** [noumansajid623@gmail.com)
