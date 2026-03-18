@@ -4,7 +4,7 @@ I am a **Software Engineer** specializing in [AI/ML,AUTOMATION] development.
 I love **VIBE CODING** and building tools that make developers' lives easier.
 
 ### 🛠 My Tech Stack
-- **Languages:** C++, JavaScript, Python
+- **Languages:** C++, JavaScript, Python, Html, Css, C#
 - **Tools:** Github, Git, Vs code, Docker, Antigravity , Cursor .
 - **Frameworks:** React,Node.js
 
