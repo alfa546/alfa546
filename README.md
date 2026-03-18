@@ -18,7 +18,8 @@ I love **VIBE CODING** and building tools that make developers' lives easier.
 - **LinkedIn:** [www.linkedin.com/in/nouman-sajid-7199803a5]
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app)
+![alfa546's GitHub stats](https://github-readme-stats.vercel.app)
+
 
 
 ---
