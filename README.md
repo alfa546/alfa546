@@ -16,6 +16,15 @@ I love **VIBE CODING** and building tools that make developers' lives easier.
 ### 💬 Connect with me
 - **Gmail:** [noumansajid623@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/nouman-sajid-7199803a5]
+
+- ### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app[alfa546]&show_icons=true&theme=radical)
+
+---
+*“Focus on the details, they make the product.”*
+
+
+**** WORK HARD WITH SMART MIND ****
 <!--- 👯 I’m looking to collaborate on ...
 **alfa546/alfa546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
