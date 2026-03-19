@@ -17,6 +17,9 @@ I love **VIBE CODING** and building tools that make developers' lives easier.
 - **Gmail:** [noumansajid623@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/nouman-sajid-7199803a5]
 
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app)
+
 ### 📊 GitHub Stats
 ![alfa546's GitHub stats](https://github-readme-stats.vercel.app)
 
