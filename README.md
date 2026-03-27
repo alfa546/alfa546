@@ -20,4 +20,6 @@ I'm NOUMAN SAJID 👋<br><br>I am a **Software Engineer** specializing in [AI/ML
 
 **** WORK HARD WITH SMART MIND ****
 
+*** Open source contributor ***
+
 
