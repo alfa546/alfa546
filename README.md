@@ -16,9 +16,6 @@ I'm NOUMAN SAJID 👋<br><br>I am a **Software Engineer** specializing in [Web d
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfa546&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alfa546&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 **** WORK HARD WITH SMART MIND ****
 
 *** Open source contributor ***
