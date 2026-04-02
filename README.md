@@ -13,6 +13,7 @@ I'm NOUMAN SAJID 👋<br><br>I am a **Software Engineer** specializing in [Web d
 ![](https://github-readme-stats.vercel.app/api?username=alfa546&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alfa546&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alfa546&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
 ### 🔝 Top Contributed Repo
