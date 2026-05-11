@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi legends
+Hi
 I'm NOUMAN SAJID 👋<br><br>I am a **Software Engineer** specializing in [Web development,AI/ML,AUTOMATION,] development. <br>I love **VIBE CODING** and building tools that make developers' lives easier.
 
 
