@@ -6,7 +6,7 @@
 <!-- ANIMATED TYPING TEXT -->
 <div align="center">
   <a href="https://github.com/alfa546">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+SOFTWARE+ENGINEER+%7C+AI%2FML+%7C+AUTOMATION+%7C+WEB;%F0%9F%92%A0+EXPLORE+MY+3D+PORTFOLIO+BELOW!;%F0%9F%9A%80+CREATOR+OF+THINK-SPACE.DEV;%F0%9F%94%A5+MASTERING+C%2B%2B%2C+PYTHON%2C+REACT+%26+.NET;%F0%9F%92%A1+VIBE+CODING+AT+MAXIMUM+SPEED!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+SOFTWARE+ENGINEER+%7C+AI%2FML+%7C+AUTOMATION+%7C+WEB;%F0%9F%92%A0+EXPLORE+MY+3D+PORTFOLIO+BELOW!;%F0%9F%9A%80+CREATOR+OF+THINK-SPACE.DEV+%26+PAKJOBPORTAL;%F0%9F%94%A5+MASTERING+C%2B%2B%2C+PYTHON%2C+REACT+%26+.NET;%F0%9F%92%A1+VIBE+CODING+AT+MAXIMUM+SPEED!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,6 +20,10 @@
   &nbsp;
   <a href="https://think-space.dev" target="_blank">
     <img src="https://img.shields.io/badge/🚀_THINK--SPACE.DEV-EXPLORE_NOW-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ThinkSpace" />
+  </a>
+  &nbsp;
+  <a href="https://pakjobportal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_PAK_JOB_PORTAL-LIVE-00FF66?style=for-the-badge&logo=vercel&logoColor=black" alt="PakJobPortal" />
   </a>
   &nbsp;
   <a href="https://github.com/alfa546">
@@ -45,7 +49,7 @@ class NoumanSajid:
         self.name = "Nouman Sajid 👋"
         self.role = "Software Engineer & AI/ML Specialist"
         self.portfolio_3d = "https://nouman-sajid-portfolio.vercel.app/"
-        self.platform = "https://think-space.dev"
+        self.platforms = ["https://think-space.dev", "https://pakjobportal.vercel.app/"]
         self.tech_stack = ["C++", "C#", "Python", "TypeScript", "React", ".NET", "Flask", "Supabase"]
         self.philosophy = "Extreme Vibe Coding & Building World-Class Intelligent Systems 🚀"
 
@@ -61,27 +65,39 @@ class NoumanSajid:
   <br>
   <table>
     <tr>
-      <td align="center" width="50%" bgcolor="#0d1117">
+      <td align="center" width="33%" bgcolor="#0d1117">
         <br>
         <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/✨_3D_WORLD_CLASS_PORTFOLIO-OPEN-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+          <img src="https://img.shields.io/badge/✨_3D_PORTFOLIO-OPEN-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
           <br><br>
           <b>💎 3D Interactive Portfolio</b><br>
-          <sub>Experience smooth 3D graphics, fluid animations, and interactive showcases.</sub>
+          <sub>Smooth 3D graphics, fluid animations, & interactive showcases.</sub>
           <br><br>
           👉 <u>nouman-sajid-portfolio.vercel.app</u>
         </a>
         <br><br>
       </td>
-      <td align="center" width="50%" bgcolor="#0d1117">
+      <td align="center" width="33%" bgcolor="#0d1117">
         <br>
         <a href="https://think-space.dev" target="_blank">
           <img src="https://img.shields.io/badge/🔥_THINK--SPACE.DEV-VISIT-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
           <br><br>
           <b>🚀 ThinkSpace Platform</b><br>
-          <sub>Next-generation developer portal & innovative tech ecosystem.</sub>
+          <sub>Next-generation developer portal & tech ecosystem.</sub>
           <br><br>
           👉 <u>think-space.dev</u>
+        </a>
+        <br><br>
+      </td>
+      <td align="center" width="33%" bgcolor="#0d1117">
+        <br>
+        <a href="https://pakjobportal.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/💼_PAK_JOB_PORTAL-VISIT-00FF66?style=for-the-badge&logo=vercel&logoColor=black" />
+          <br><br>
+          <b>🇵🇰 PakJobPortal</b><br>
+          <sub>Comprehensive job portal platform for career opportunities.</sub>
+          <br><br>
+          👉 <u>pakjobportal.vercel.app</u>
         </a>
         <br><br>
       </td>
@@ -107,6 +123,7 @@ class NoumanSajid:
       <ul>
         <li>🌐 <b>3D Portfolio:</b> <a href="https://nouman-sajid-portfolio.vercel.app/">nouman-sajid-portfolio.vercel.app</a></li>
         <li>🚀 <b>Main Platform:</b> <a href="https://think-space.dev">think-space.dev</a></li>
+        <li>💼 <b>Job Portal:</b> <a href="https://pakjobportal.vercel.app/">pakjobportal.vercel.app</a></li>
         <li>🧬 <b>Core Specialization:</b> AI/ML Architectures, Deep Learning, & Web Development.</li>
         <li>💻 <b>Core Tech:</b> C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.</li>
         <li>⚡ <b>Vibe Coding:</b> Pushing the boundaries of speed, UI polish, and performance.</li>
@@ -186,6 +203,9 @@ class NoumanSajid:
   </a>
   <a href="https://think-space.dev" target="_blank">
     <img src="https://img.shields.io/badge/ThinkSpace-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://pakjobportal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PakJobPortal-00FF66?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="https://linkedin.com/in/nouman-sajid-7199803a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
