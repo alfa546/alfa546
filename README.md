@@ -1,65 +1,89 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=NOUMAN%20SAJID&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB&descAlignY=62&descAlign=50" alt="Header" />
-</h1>
+<!-- CYBERPUNK NEON HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00F0FF,50:7F00FF,100:FF007F&height=240&section=header&text=NOUMAN%20SAJID&fontSize=65&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB&descAlignY=65&descAlign=50" width="100%" alt="Cyberpunk Header" />
+</div>
 
+<!-- ANIMATED TYPING TEXT -->
 <div align="center">
   <a href="https://github.com/alfa546">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Welcome+to+the+Next-Gen+Developer+Realm!;%F0%9F%A4%96+Specializing+in+AI%2FML%2C+Automation+%26+Web+Dev;%F0%9F%94%A5+Mastering+C%2B%2B%2C+Python%2C+React+%26+.NET;%F0%9F%92%A1+Passionate+About+Vibe+Coding+%26+Building+Innovations!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+SOFTWARE+ENGINEER+%7C+AI%2FML+%7C+AUTOMATION+%7C+WEB;%F0%9F%92%A0+EXPLORE+MY+3D+PORTFOLIO+BELOW!;%F0%9F%9A%80+CREATOR+OF+THINK-SPACE.DEV;%F0%9F%94%A5+MASTERING+C%2B%2B%2C+PYTHON%2C+REACT+%26+.NET;%F0%9F%92%A1+VIBE+CODING+AT+MAXIMUM+SPEED!" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/alfa546">
-    <img src="https://komarev.com/ghpvc/?username=alfa546&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/alfa546?tab=followers">
-    <img src="https://img.shields.io/github/followers/alfa546?label=Followers&logo=github&style=for-the-badge&color=4facfe" alt="Followers" />
-  </a>
-</div>
-
-<br>
-
-<!-- FEATURED QUICK LINKS -->
+<!-- ACTION BUTTONS / QUICK LINKS -->
 <div align="center">
   <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_3D_PORTFOLIO-nouman--sajid--portfolio.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="3D Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_3D_PORTFOLIO-LIVE_DEMO-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="3D Portfolio" />
   </a>
   &nbsp;
   <a href="https://think-space.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_THINK--SPACE.DEV-Official_Site-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ThinkSpace" />
+    <img src="https://img.shields.io/badge/🚀_THINK--SPACE.DEV-EXPLORE_NOW-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ThinkSpace" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alfa546">
+    <img src="https://komarev.com/ghpvc/?username=alfa546&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
 
 <br>
 
+<!-- NEON ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br><br>
+
+<!-- DEVELOPER CODE MATRIX -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
+  <h3>⚡ THE DEVELOPER MANIFESTO ⚡</h3>
 </div>
+
+```python
+class NoumanSajid:
+    def __init__(self):
+        self.name = "Nouman Sajid 👋"
+        self.role = "Software Engineer & AI/ML Specialist"
+        self.portfolio_3d = "https://nouman-sajid-portfolio.vercel.app/"
+        self.platform = "https://think-space.dev"
+        self.tech_stack = ["C++", "C#", "Python", "TypeScript", "React", ".NET", "Flask", "Supabase"]
+        self.philosophy = "Extreme Vibe Coding & Building World-Class Intelligent Systems 🚀"
+
+    def status(self):
+        return "Architecting next-gen web platforms & deep learning models!"
+```
 
 <br>
 
-## 🌐 Featured Platforms & 3D Experience
-
+<!-- FEATURED 3D & PLATFORM SHOWCASE -->
 <div align="center">
+  <h2>🌌 FEATURED SHOWCASE & LIVE WEBSITES</h2>
+  <br>
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" bgcolor="#0d1117">
+        <br>
         <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/⚡_3D_WORLD_CLASS_PORTFOLIO-Visit_Now-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+          <img src="https://img.shields.io/badge/✨_3D_WORLD_CLASS_PORTFOLIO-OPEN-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
           <br><br>
-          <b>Interactive 3D Web Experience</b><br>
-          <sub>Explore my ultra-smooth 3D web portfolio featuring immersive animations and project showcases.</sub>
+          <b>💎 3D Interactive Portfolio</b><br>
+          <sub>Experience smooth 3D graphics, fluid animations, and interactive showcases.</sub>
+          <br><br>
+          👉 <u>nouman-sajid-portfolio.vercel.app</u>
         </a>
+        <br><br>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" bgcolor="#0d1117">
+        <br>
         <a href="https://think-space.dev" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_THINK--SPACE.DEV-Visit_Platform-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+          <img src="https://img.shields.io/badge/🔥_THINK--SPACE.DEV-VISIT-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
           <br><br>
-          <b>ThinkSpace Dev</b><br>
-          <sub>Next-generation platform for developers, tools, and AI innovation.</sub>
+          <b>🚀 ThinkSpace Platform</b><br>
+          <sub>Next-generation developer portal & innovative tech ecosystem.</sub>
+          <br><br>
+          👉 <u>think-space.dev</u>
         </a>
+        <br><br>
       </td>
     </tr>
   </table>
@@ -67,69 +91,96 @@
 
 <br>
 
-## 🚀 About The Engineer
+<!-- NEON ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-Hi legends! I am **Nouman Sajid** 👋, a forward-thinking **Software Engineer** specializing in building intelligent AI models, high-grade Web applications, and robust automation frameworks.
+<br><br>
 
-- 🌐 **Live Portfolio:** [nouman-sajid-portfolio.vercel.app](https://nouman-sajid-portfolio.vercel.app/)
-- 🚀 **Main Platform:** [think-space.dev](https://think-space.dev)
-- 🧬 **Core Focus:** AI/ML Architectures, Deep Learning & Intelligent Automation.
-- 💻 **Tech Stack:** C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.
-- ⚡ **Vibe Coding:** Dedicated to building seamless developer tools & super smooth UIs.
-- 🎯 **Open Source:** Active contributor and explorer of cutting-edge tech.
+<!-- ABOUT SECTION WITH CYBER ANIMATION -->
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 About The Engineer</h2>
+      <p>
+        Hi legends! I am <b>Nouman Sajid</b> 👋, a high-octane <b>Software Engineer</b> crafting intelligent AI systems, ultra-smooth Web experiences, and modern automation tools.
+      </p>
+      <ul>
+        <li>🌐 <b>3D Portfolio:</b> <a href="https://nouman-sajid-portfolio.vercel.app/">nouman-sajid-portfolio.vercel.app</a></li>
+        <li>🚀 <b>Main Platform:</b> <a href="https://think-space.dev">think-space.dev</a></li>
+        <li>🧬 <b>Core Specialization:</b> AI/ML Architectures, Deep Learning, & Web Development.</li>
+        <li>💻 <b>Core Tech:</b> C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.</li>
+        <li>⚡ <b>Vibe Coding:</b> Pushing the boundaries of speed, UI polish, and performance.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Dev Animation" />
+    </td>
+  </tr>
+</table>
 
-<br>
+<br><br>
 
-## 🛠️ Tech Stack & Ecosystem
-
+<!-- 3D TECH MATRIX -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,js,react,dotnet,flask,supabase,figma,numpy,pandas,git,github,vscode,vercel,netlify,render,apache" alt="Tech Stack Icons" />
+  <h2>🛠️ TECH MATRIX & TOOLKIT</h2>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,js,react,dotnet,flask,supabase,figma,numpy,pandas,git,github,vscode,vercel,netlify,render,apache&perline=10" alt="Tech Matrix" />
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br>
 
-## 📊 Analytics Dashboard
+<!-- NEON ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<br><br>
+
+<!-- ANALYTICS SUITE -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=alfa546&theme=tokyonight&hide_border=true" width="48%" />
+  <h2>📊 PERFORMANCE & ANALYTICS SUITE</h2>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=alfa546&theme=synthwave&hide_border=false" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=synthwave&hide_border=false&layout=compact" width="49%" />
 </div>
 
-<br>
+<br><br>
 
-## 💡 Developer Wisdom
-
+<!-- DAILY WISDOM -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <h2>💡 DAILY DEVELOPER WISDOM</h2>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Quote" />
 </div>
 
-<br>
+<br><br>
 
-## 🌐 Connect & Network
-
+<!-- CONNECT & NETWORK -->
 <div align="center">
+  <h2>🌐 CONNECT & NETWORK</h2>
+  <br>
   <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
@@ -150,8 +201,9 @@ Hi legends! I am **Nouman Sajid** 👋, a forward-thinking **Software Engineer**
   </a>
 </div>
 
-<br>
+<br><br>
 
+<!-- CYBER FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00F0FF,50:7F00FF,100:FF007F&height=120&section=footer" width="100%" />
 </div>
