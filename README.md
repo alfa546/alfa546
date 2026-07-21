@@ -21,8 +21,48 @@
 
 <br>
 
+<!-- FEATURED QUICK LINKS -->
+<div align="center">
+  <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LIVE_3D_PORTFOLIO-nouman--sajid--portfolio.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="3D Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://think-space.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_THINK--SPACE.DEV-Official_Site-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ThinkSpace" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
+</div>
+
+<br>
+
+## 🌐 Featured Platforms & 3D Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/⚡_3D_WORLD_CLASS_PORTFOLIO-Visit_Now-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+          <br><br>
+          <b>Interactive 3D Web Experience</b><br>
+          <sub>Explore my ultra-smooth 3D web portfolio featuring immersive animations and project showcases.</sub>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://think-space.dev" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_THINK--SPACE.DEV-Visit_Platform-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+          <br><br>
+          <b>ThinkSpace Dev</b><br>
+          <sub>Next-generation platform for developers, tools, and AI innovation.</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -31,6 +71,8 @@
 
 Hi legends! I am **Nouman Sajid** 👋, a forward-thinking **Software Engineer** specializing in building intelligent AI models, high-grade Web applications, and robust automation frameworks.
 
+- 🌐 **Live Portfolio:** [nouman-sajid-portfolio.vercel.app](https://nouman-sajid-portfolio.vercel.app/)
+- 🚀 **Main Platform:** [think-space.dev](https://think-space.dev)
 - 🧬 **Core Focus:** AI/ML Architectures, Deep Learning & Intelligent Automation.
 - 💻 **Tech Stack:** C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.
 - ⚡ **Vibe Coding:** Dedicated to building seamless developer tools & super smooth UIs.
@@ -88,6 +130,12 @@ Hi legends! I am **Nouman Sajid** 👋, a forward-thinking **Software Engineer**
 ## 🌐 Connect & Network
 
 <div align="center">
+  <a href="https://nouman-sajid-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="https://think-space.dev" target="_blank">
+    <img src="https://img.shields.io/badge/ThinkSpace-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/nouman-sajid-7199803a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
