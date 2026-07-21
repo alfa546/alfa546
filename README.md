@@ -115,7 +115,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Anand-Subramanian/Anand-Subramanian/main/assets/Coder_GIF.gif" width="100%" alt="3D Cyber Coder Avatar" />
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="3D Developer Avatar" />
     </td>
   </tr>
 </table>
