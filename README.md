@@ -1,82 +1,123 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nouman%20Sajid&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI/ML%20%7C%20Automation&descAlignY=61&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=NOUMAN%20SAJID&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SENIOR%20SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB&descAlignY=62&descAlign=50" alt="Header" />
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nouman+Sajid+👋;Software+Engineer;Web+Development+%7C+AI%2FML+%7C+Automation;I+love+VIBE+CODING!+🚀;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="Rocket" width="25" />
-  <b>Building tools that make developers' lives easier.</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" />
-</p>
-
-<div align="center">
-  <!-- Social Badges -->
-  <a href="https://facebook.com/nouman.sajid.396025"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/its_nouman_jutt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://linkedin.com/in/nouman-sajid-7199803a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:noumansajid623@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/alfa546">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Welcome+to+the+Next-Gen+Developer+Realm!;%F0%9F%A4%96+Specializing+in+AI%2FML%2C+Automation+%26+Web+Dev;%F0%9F%94%A5+Mastering+C%2B%2B%2C+Python%2C+React+%26+.NET;%F0%9F%92%A1+Passionate+About+Vibe+Coding+%26+Building+Innovations!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
-## 🌌 About Me
-<img align="right" width="300" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Animation/programmer.gif" alt="coding gif" />
+<div align="center">
+  <a href="https://github.com/alfa546">
+    <img src="https://komarev.com/ghpvc/?username=alfa546&label=PROFILE+VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/alfa546?tab=followers">
+    <img src="https://img.shields.io/github/followers/alfa546?label=Followers&logo=github&style=for-the-badge&color=4facfe" alt="Followers" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **cutting-edge AI/ML projects and Web Development**.
-- 🌱 I’m currently diving deep into **Deep Learning and advanced Automation**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **C++, Python, React, and AI model integration**.
-- ⚡ Fun fact: I am an absolute advocate of **VIBE CODING!**
+<br>
 
-<br><br>
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <h2>🏆 GitHub Achievements & Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=alfa546&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+</div>
 
-## 🛠️ Tech Stack & Skills
+<br>
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>🚀 About The Engineer</h2>
+      <p>
+        Hi legends! I am <b>Nouman Sajid</b> 👋, a forward-thinking <b>Software Engineer</b> specializing in building intelligent AI models, high-grade Web applications, and robust automation frameworks.
+      </p>
+      <ul>
+        <li>🧬 <b>Core Focus:</b> AI/ML Architectures, Deep Learning & Intelligent Automation.</li>
+        <li>💻 <b>Tech Stack:</b> C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.</li>
+        <li>⚡ <b>Vibe Coding:</b> Dedicated to building seamless developer tools & super smooth UIs.</li>
+        <li>🎯 <b>Open Source:</b> Active contributor and explorer of cutting-edge tech.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Animation/programmer.gif" width="100%" alt="Cyber Dev" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🛠️ 3D Tech Stack & Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,js,react,dotnet,flask,supabase,figma,numpy,pandas,git,github,vscode,vercel,netlify,render,apache" alt="Tech Stack Icons" />
+</div>
+
+<br>
 
 <p align="center">
-  <b><i>Languages</i></b><br>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br><br>
-  <b><i>Frontend & UI</i></b><br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <br><br>
-  <b><i>Backend & Databases</i></b><br>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <br><br>
-  <b><i>AI/ML & Data Science</i></b><br>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <br><br>
-  <b><i>Cloud & Deployment</i></b><br>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-## 🚀 GitHub Analytics
+<br>
+
+## 📊 Performance & Analytics Suite
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfa546&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfa546&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfa546&theme=tokyonight&utcOffset=5" width="49%" />
+</div>
+
+<br>
+
+## 💡 Developer Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<br>
+
+## 🌐 Connect & Network
+
+<div align="center">
+  <a href="https://linkedin.com/in/nouman-sajid-7199803a5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/nouman.sajid.396025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/its_nouman_jutt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:noumansajid623@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
 </div>
