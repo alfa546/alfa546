@@ -1,6 +1,6 @@
-<!-- 👑 ULTRA DECORATED CYBERPUNK HEADER 👑 -->
+<!-- 👑 ANIMATED WAVING GRADIENT HEADER 👑 -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00F0FF,25:7F00FF,50:FF007F,75:FFD700,100:00FF66&height=250&section=header&text=NOUMAN%20SAJID&fontSize=70&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=%E2%9C%A8%20SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB%20%E2%9C%A8&descAlignY=65&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=NOUMAN%20SAJID&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB&descAlignY=61&descAlign=50" width="100%" alt="Header" />
 </h1>
 
 <!-- ⚡ ANIMATED TYPING BANNER ⚡ -->
@@ -242,7 +242,7 @@ class NoumanSajid:
 
 <br><br>
 
-<!-- 👑 CYBER FOOTER BANNER 👑 -->
+<!-- 👑 ANIMATED WAVING GRADIENT FOOTER 👑 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00F0FF,25:7F00FF,50:FF007F,75:FFD700,100:00FF66&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 </div>
