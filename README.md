@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=NOUMAN%20SAJID&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SENIOR%20SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB&descAlignY=62&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=NOUMAN%20SAJID&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%9A%A1%20AI/ML%20%7C%20AUTOMATION%20%7C%20WEB&descAlignY=62&descAlign=50" alt="Header" />
 </h1>
 
 <div align="center">
@@ -21,37 +21,24 @@
 
 <br>
 
-<!-- GITHUB TROPHIES -->
 <div align="center">
-  <h2>🏆 GitHub Achievements & Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=alfa546&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
 </div>
 
 <br>
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🚀 About The Engineer</h2>
-      <p>
-        Hi legends! I am <b>Nouman Sajid</b> 👋, a forward-thinking <b>Software Engineer</b> specializing in building intelligent AI models, high-grade Web applications, and robust automation frameworks.
-      </p>
-      <ul>
-        <li>🧬 <b>Core Focus:</b> AI/ML Architectures, Deep Learning & Intelligent Automation.</li>
-        <li>💻 <b>Tech Stack:</b> C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.</li>
-        <li>⚡ <b>Vibe Coding:</b> Dedicated to building seamless developer tools & super smooth UIs.</li>
-        <li>🎯 <b>Open Source:</b> Active contributor and explorer of cutting-edge tech.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Animation/programmer.gif" width="100%" alt="Cyber Dev" />
-    </td>
-  </tr>
-</table>
+## 🚀 About The Engineer
+
+Hi legends! I am **Nouman Sajid** 👋, a forward-thinking **Software Engineer** specializing in building intelligent AI models, high-grade Web applications, and robust automation frameworks.
+
+- 🧬 **Core Focus:** AI/ML Architectures, Deep Learning & Intelligent Automation.
+- 💻 **Tech Stack:** C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.
+- ⚡ **Vibe Coding:** Dedicated to building seamless developer tools & super smooth UIs.
+- 🎯 **Open Source:** Active contributor and explorer of cutting-edge tech.
 
 <br>
 
-## 🛠️ 3D Tech Stack & Ecosystem
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,js,react,dotnet,flask,supabase,figma,numpy,pandas,git,github,vscode,vercel,netlify,render,apache" alt="Tech Stack Icons" />
@@ -75,18 +62,17 @@
 
 <br>
 
-## 📊 Performance & Analytics Suite
+## 📊 Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfa546&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=alfa546&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfa546&theme=tokyonight&utcOffset=5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </div>
 
 <br>
