@@ -109,8 +109,8 @@
         <li>🌐 <b>3D Interactive Portfolio:</b> <a href="https://nouman-sajid-portfolio.vercel.app/">nouman-sajid-portfolio.vercel.app</a></li>
         <li>🚀 <b>Official Platform:</b> <a href="https://think-space.dev">think-space.dev</a></li>
         <li>💼 <b>Career Portal App:</b> <a href="https://pakjobportal.vercel.app/">pakjobportal.vercel.app</a></li>
-        <li>🧬 <b>Core Specialization:</b> AI/ML Architectures, Deep Learning, & Full-Stack Web Development.</li>
-        <li>💻 <b>Core Tech:</b> C++, C#, Python, TypeScript, React, .NET, Flask, Supabase.</li>
+        <li>🧬 <b>Core Specialization:</b> AI Architectures, Deep Learning, & Full-Stack Web Development.</li>
+        <li>💻 <b>Core Tech:</b> C++, C#, Python, TypeScript, React, .NET, Flask, Supabase , git , github , kali linux </li>
         <li>⚡ <b>Vibe Coding:</b> Pushing the boundaries of speed, UI polish, and performance.</li>
       </ul>
     </td>
