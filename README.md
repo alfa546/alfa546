@@ -1,8 +1,9 @@
+<!-- HEADER BANNER -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,7F00FF,FF007F&height=250&section=header&text=Nouman%20Sajid&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI/ML%20%7C%20Full-Stack&descAlignY=61&descAlign=50" width="100%" alt="Header Banner" />
+</h1>
+
 <div align="center">
-  <h1 align="center">Nouman Sajid</h1>
-  <p align="center">
-    <strong>Software Engineer | AI/ML Specialist | Full-Stack Developer</strong>
-  </p>
   <p align="center">
     <a href="mailto:noumansajid623@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -58,7 +59,7 @@ Hello! I'm a passionate Software Engineer focused on crafting intelligent AI sys
 | Project | Description | Live Link |
 |---------|-------------|-----------|
 | **[ThinkSpace.dev](https://think-space.dev)** | A next-gen developer ecosystem featuring AI integrations and workflow innovations. | [Visit Site](https://think-space.dev) |
-| **[Nouman's 3D Portfolio](https://nouman-sajid-portfolio.vercel.app/)** | An interactive personal portfolio showcasing ultra-smooth 3D WebGL graphics and fluid animations. | [View Demo](https://nouman-sajid-portfolio.vercel.app/) |
+| **[Nouman's Portfolio](https://nouman-sajid-portfolio.vercel.app/)** | An interactive personal portfolio showcasing a sleek design and fluid animations. | [View Demo](https://nouman-sajid-portfolio.vercel.app/) |
 | **[PakJobPortal](https://pakjobportal.vercel.app/)** | A full-stack career platform designed to connect software engineers with top tech companies. | [Open App](https://pakjobportal.vercel.app/) |
 
 ---
@@ -68,4 +69,9 @@ Hello! I'm a passionate Software Engineer focused on crafting intelligent AI sys
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfa546&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa546&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&layout=compact" width="48%" />
+</div>
+
+<!-- FOOTER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,7F00FF,FF007F&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
