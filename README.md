@@ -50,6 +50,10 @@ Hello! I'm a passionate Software Engineer focused on crafting intelligent AI sys
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiven-FF4351?style=flat-square&logo=aiven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 </p>
 
 ---
